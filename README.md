@@ -1,4 +1,4 @@
-# gp-gcp-storage
+# go-gcp-storage
 
 Sample project to show how to use some of the function use.
 
