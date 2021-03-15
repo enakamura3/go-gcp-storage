@@ -57,6 +57,15 @@ export BUCKET_NAME=bucket-name
 export GOOGLE_APPLICATION_CREDENTIALS=$(pwd)/resources/service-account-a53a55d10d53.json
 ```
 
+Where:
+
+| Name                             | Description                    |
+|----------------------------------|--------------------------------|
+| `BUCKET_NAME`                    | Bucket name                    |
+| `GOOGLE_APPLICATION_CREDENTIALS` | Service Account json file path |
+
+The _Service Account_ file can be downloaded when you create an service account access to your bucket. 
+
 Execute:
 
 ```sh
