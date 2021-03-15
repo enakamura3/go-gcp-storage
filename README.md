@@ -1,4 +1,4 @@
-# README
+# gp-gcp-storage
 
 Sample project to show how to use some of the function use.
 
