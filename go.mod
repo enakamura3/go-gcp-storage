@@ -1,4 +1,4 @@
-module github.com/enakamura3/gp-gcp-storage
+module github.com/enakamura3/go-gcp-storage
 
 go 1.15
 
